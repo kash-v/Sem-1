@@ -9,11 +9,11 @@ int main(){
         avg=sum/count;
         printf("do you want to enter another number(y or n): ");
         scanf("%c",&ch);
-        /*if(ch=='y'){
+        if(ch=='y'){
             continue;
         }else{
             break;
-        }*/
+        }
     }
     printf("the sum and average of the numbers is %d and %d respectively",sum,avg);
     return 0;

@@ -1,0 +1,13 @@
+CSS has 2 main parts: Selctor and declarations(consists of property and Value(colour:blue; font-size:12px))
+
+3 Types of css:-
+1)Inline Css
+2)Internal/external
+3)External
+[priority: inline>internal]
+
+3 types of targetting in css:
+1)using tags
+2)usings ids
+3) Targetting using class name
+[id should be unique, but we can give class to multiple elements]
